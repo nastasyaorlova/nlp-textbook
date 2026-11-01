@@ -1,0 +1,31 @@
+# Настройки учебника. Подробно: https://jupyterbook.org/en/stable/customize/config.html
+title: NLP в рекламе и PR
+author: ""
+only_build_toc_files: true
+
+# Тетрадки уже выполнены: при сборке их не запускаем, показываем сохранённые результаты
+execute:
+  execute_notebooks: "off"
+
+# Репозиторий учебника на GitHub
+repository:
+  url: https://github.com/nastasyaorlova/nlp-textbook
+  branch: main
+
+html:
+  use_repository_button: true
+  use_download_button: false
+  home_page_in_navbar: true
+  extra_footer: ""
+
+sphinx:
+  config:
+    language: ru
+    html_show_copyright: false
+    html_show_sphinx: false
+    html_theme_options:
+      use_download_button: false
+      use_repository_button: true
+      repository_url: https://github.com/nastasyaorlova/nlp-textbook
+      repository_branch: main
+      home_page_in_toc: true
