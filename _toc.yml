@@ -1,0 +1,7 @@
+# Оглавление учебника. Новая лекция = новая строка в нужном разделе.
+format: jb-book
+root: intro
+parts:
+  - caption: Основы
+    chapters:
+      - file: lectures/lecture01
