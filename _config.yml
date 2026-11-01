@@ -1,5 +1,5 @@
 # Настройки учебника. Подробно: https://jupyterbook.org/en/stable/customize/config.html
-title: NLP в рекламе и PR
+title: НИС-3. Text mining
 author: ""
 only_build_toc_files: true
 
