@@ -5,3 +5,4 @@ parts:
   - caption: Основы
     chapters:
       - file: lectures/lecture01
+      - file: lectures/lecture02
