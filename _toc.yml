@@ -6,3 +6,4 @@ parts:
     chapters:
       - file: lectures/lecture01
       - file: lectures/lecture02
+      - file: lectures/lecture03
