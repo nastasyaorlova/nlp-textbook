@@ -7,3 +7,4 @@ parts:
       - file: lectures/lecture01
       - file: lectures/lecture02
       - file: lectures/lecture03
+      - file: lectures/lecture04
