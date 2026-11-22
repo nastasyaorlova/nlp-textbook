@@ -8,3 +8,4 @@ parts:
       - file: lectures/lecture02
       - file: lectures/lecture03
       - file: lectures/lecture04
+      - file: lectures/lecture05
